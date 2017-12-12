@@ -9,5 +9,9 @@ int main()
 	float weight;
 	char sex;
 
+	age = 23;
+	weight = 50.5;
+	sex = 'M';
+
 
 }
