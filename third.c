@@ -9,7 +9,7 @@ int main()
 
 	/*printf ("format string", list of variables); */
 	
-	printf("my name is Tevin Aduma \n I am %d years old \n I weigh %f kg \n I am a black boy",age,weight,sex);
+	printf("my name is Tevin Aduma \n I am %d years old \n I weigh %f kg \n I am a \"black boy\"",age,weight,sex);
 
 	_getch();
 	
