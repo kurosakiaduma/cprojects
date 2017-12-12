@@ -11,10 +11,10 @@ int main()
 					}
 	*/
 	
-	int age = 20;
-	if (age >= 18) {
+	int age = 10;
+	if (age <= 18) {
 
-		printf("Okay, you me it fam!");
+		printf("Okay, you are not it fam!");
 	}
 
 	_getch();
