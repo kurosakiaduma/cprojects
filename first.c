@@ -4,7 +4,7 @@ int main()
 {
    printf("Hello learner");
 
-   getch();
+   _getch();
    
    return 0;
 }
