@@ -5,7 +5,7 @@ int main()
 
 	// datatype name;
 
-	int age();
+	int age;
 	float weight;
 	char sex;
 
@@ -13,7 +13,7 @@ int main()
 	weight = 50.5;
 	sex = 'M';
 
-	printf(%d %f %c, age, weight, sex);
+	printf("%d %f %c", age, weight, sex);
 
 	_getch();
 
