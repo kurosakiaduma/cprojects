@@ -15,14 +15,14 @@ int main()
 
 	*/
 	
-	int age = 10;
-	if (age <= 18) {
+	int age = 20;
+	if (age == 20) {
 
-		printf("Okay, you are not it fam!");
+		printf("Okay, you are not it fam!\n");
 	}
 	else{
 	
-		printf("You made it fam");
+		printf("You made it fam\n");
 
 	}
 
