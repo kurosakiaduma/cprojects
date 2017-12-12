@@ -3,6 +3,8 @@
 int main()
 {
    printf("Hello learner");
+
+   getch();
    
    return 0;
 }
