@@ -13,5 +13,10 @@ int main()
 	weight = 50.5;
 	sex = 'M';
 
+	printf(%d %f %c, age, weight, sex);
+
+	_getch();
+
+	return 0;
 
 }
