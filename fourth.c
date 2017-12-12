@@ -9,7 +9,8 @@ int main()
 
 	printf("Enter your age here \n");
 
-	scanf("%d", &age);
+	scanf_s("%d", &age);
+	printf("Your age is %d", age);
 
 	_getch();
 	return 0;
