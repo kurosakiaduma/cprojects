@@ -13,6 +13,7 @@ int main() {
 	*/
 
 	int x = 10;
+	x++;
 	printf("X value is %d\n",x);
 	
 	_getch();
