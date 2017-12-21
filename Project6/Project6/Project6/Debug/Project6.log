@@ -1,0 +1,4 @@
+﻿  sixth.c
+c:\users\user\c-projects\sixth.c(17): warning C4101: 'result': unreferenced local variable
+c:\users\user\c-projects\sixth.c(17): warning C4101: 'num2': unreferenced local variable
+  Project6.vcxproj -> C:\Users\user\C-PROJECTS\Project6\Project6\Debug\Project6.exe
