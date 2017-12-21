@@ -10,6 +10,9 @@ int main() {
 
 	-- decrement by value operator
 	
+	The difference between ++x and x++ during print is that one is executed before the statement is printed onto the console while for x++ the original value of x is displayed before the increment operator is executed
+
+
 	*/
 
 	int x = 10;
