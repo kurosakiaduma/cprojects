@@ -9,7 +9,6 @@ logical operators
 AND		&&
 OR		||
 
-
 */
 
 	int age = 25;
