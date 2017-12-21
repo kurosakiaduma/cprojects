@@ -17,11 +17,11 @@ int main(){
 int num1, num2, result;
 
 num1 = 20;
-num2 = 10;
 
-result = num1 % num2;
+num1++;
 
-printf("%d", result);
+
+printf("%d", num1);
 
 _getch();
 
