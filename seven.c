@@ -12,8 +12,8 @@ OR		||
 
 */
 
-	int age = 15;
-	if (age <=18 && age >=13){
+	int age = 25;
+	if (age <=18 || age >=13){
 		printf("you are a teenager");
 	}
 
