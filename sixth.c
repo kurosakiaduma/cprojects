@@ -18,7 +18,7 @@ int num1, num2, result;
 
 num1 = 20;
 
-num1++;
+num1+=5;
 
 
 printf("%d", num1);
