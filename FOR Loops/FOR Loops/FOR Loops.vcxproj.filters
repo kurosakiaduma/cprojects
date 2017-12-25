@@ -15,10 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="loops.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="for loop.cpp">
+    <ClCompile Include="..\..\C Loops\C Loops\for loop.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

@@ -20,8 +20,8 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{1E26C0D1-A039-4100-92A1-D85A30821776}</ProjectGuid>
-    <RootNamespace>CLoops</RootNamespace>
+    <ProjectGuid>{4BECAFBA-2A6A-4518-9C7A-A9449F5E61B8}</ProjectGuid>
+    <RootNamespace>FORLoops</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.16299.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -115,8 +115,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="for loop.cpp" />
-    <ClCompile Include="loops.cpp" />
+    <ClCompile Include="..\..\C Loops\C Loops\for loop.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
