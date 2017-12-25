@@ -5,8 +5,8 @@ int main() {
 
 	/*local variable definition*/
 
-	const a = 100;
-	const b = 200;
+	int a = 100;
+	int b = 200;
 
 	switch (a)
 	{
@@ -14,7 +14,7 @@ int main() {
 		printf("This is part of outer switch\n", a);
 		switch (b)
 		{
-		case 200:
+		case 100:
 			printf("This is part of inner switch\n",a);
 		}
 	}
