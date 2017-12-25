@@ -4,7 +4,7 @@
 int main() {
 
 	/*local variable definition*/
-	int main = 0;
+	int a = 0;
 
 	/*while loop execution*/
 
