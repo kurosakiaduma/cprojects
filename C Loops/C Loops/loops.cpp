@@ -3,6 +3,16 @@
 
 int main() {
 
+	/*local variable definition*/
+	int main = 0;
+
+	/*while loop execution*/
+
+	while (a < 20) {
+
+		printf("value of a:%d\n", a);
+		a++;
+	}
 
 	_getch();
 	return 0;
